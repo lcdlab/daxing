@@ -1,2 +1,1 @@
-# daxing
-# daxing
+# Excel files for Experiments 1 - 4 for Srinivasan, M., Al-Mughairy, S. Foushee, R., & Barner, D. (2016). Learning language from within: Children use semantic generalizations to infer word meanings. Cognition.
